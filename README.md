@@ -162,11 +162,11 @@ tennis-ai-coach/
 
 ### Phase 1: MVP (Current)
 
-- [x] Basic video upload and playback
-- [x] Pose detection with MediaPipe
-- [x] Calculate key tennis metrics
-- [x] Generate AI coaching feedback
-- [x] Export annotated videos
+- [ ] Basic video upload and playback
+- [ ] Pose detection with MediaPipe
+- [ ] Calculate key tennis metrics
+- [ ] Generate AI coaching feedback
+- [ ] Export annotated videos
 
 ### Phase 2: User System (In Progress)
 
@@ -249,5 +249,4 @@ _"The best time to plant a tree was 20 years ago. The second best time is now."_
 
 ---
 
-**[⬆ back to top](#-tennis-ai-coach)**
-cd# tennis_ai_coach
+
